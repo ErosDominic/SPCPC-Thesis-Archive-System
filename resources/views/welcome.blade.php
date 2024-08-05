@@ -13,7 +13,7 @@
             "resources/css/app.css",
 
         ])
-    <title>ErosPogi</title>
+    <title>SPCPC</title>
 </head>
 <body >
     <div id="root"></div>
