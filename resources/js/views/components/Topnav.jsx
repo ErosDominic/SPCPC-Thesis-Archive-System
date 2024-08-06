@@ -11,7 +11,9 @@ const Topnav = () => {
                         alt="SPCPClogo"
                         className="w-[60px]"
                     />
-                    <h1 className="text-3xl">SPCPC THESIS ARCHIVER</h1>
+                    <h1 className="text-3xl text-slate-700 font-semibold">
+                        SPCPC THESIS ARCHIVER
+                    </h1>
                 </div>
                 <div className="">
                     <div className="flex text-white font-bold items-center">
